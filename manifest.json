@@ -1,0 +1,49 @@
+{
+  "short_name": "Weather",
+  "name": "Weather app",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "24x24",
+      "type": "image/x-icon"
+    },
+    {
+      "src":"logo16.png",
+      "sizes":"16x16",
+      "type":"image/png"
+    },
+    {
+      "src":"logo64.png",
+      "sizes":"64x64",
+      "type":"image/png"
+    },
+    {
+      "src":"logo32.png",
+      "type":"image/png",
+      "sizes":"32x32"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose":"any maskable"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+    "prefer_related_applications": true,
+    "related_applications": [
+      {
+        "platform": "play",
+        "id": "com.google.samples.apps.iosched"
+      }
+    ],
+  "start_url": "/",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
