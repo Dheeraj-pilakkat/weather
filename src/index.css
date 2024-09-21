@@ -10,9 +10,6 @@ body {
   background:#6f92dc;
   transition: 0.4s ease-in-out;
 }
-.app.warm {
-  background-image: url(https://images.unsplash.com/photo-1552082919-e60010758c47?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80);
-}
 main {
   height: 94vh;
   background-image: linear-gradient(
